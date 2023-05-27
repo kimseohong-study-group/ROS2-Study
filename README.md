@@ -11,5 +11,3 @@
       3주차 - Beginner: Client libraries 끝까지 (김재환)
  * 추후 내용을 나누는 것은 3주차 끝나고 하기
  * 목표는 Advenced 까지의 학습을 목표로 한다.
->> test
-> test2
