@@ -1,7 +1,8 @@
 # ROS2-STUDY
 <img width = "50%" src = "https://github.com/kimseohong-study-group/ROS2-Study/assets/79675698/a58c5276-e2c6-4013-acb6-331d525aa1e4"/>
 
-## 0주차 회의 내용
+## 회의 내용
+### 0주차 회의 내용
  * 김재환, 서태곤, 홍창민은 돌아가면서 1주씩 발표를 시작한다. (순서는 서태곤, 홍창민, 김재환)
  * ROS2 tutorial내용을 발표를 한다.
  * github에 올려아한다.
